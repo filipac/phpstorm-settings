@@ -1,5 +1,13 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="IntroduceParameter" />
+  <action id="Laravel.ExtractPartialView" />
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
