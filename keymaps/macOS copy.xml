@@ -9,10 +9,13 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="EditorCodeBlockStart" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="IntroduceParameter" />
   <action id="Laravel.ExtractPartialView" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
