@@ -11,6 +11,10 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="shift meta home" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Editor LRU">
@@ -26,13 +30,19 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorMoveToPageBottomWithSelection" />
   <action id="EditorSelectWord" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStartWithSelection" />
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta page_down" />
   </action>
   <action id="IntroduceParameter" />
   <action id="Laravel.ExtractPartialView" />
@@ -70,7 +80,12 @@
   <action id="SmartUnSelect" />
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
+  <action id="Tree-selectLastExtendSelection" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="shift meta end" />
+  </action>
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
