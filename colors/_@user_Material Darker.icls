@@ -4,7 +4,7 @@
     <property name="created">2020-10-27T16:37:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-10-27T16:46:09</property>
+    <property name="modified">2020-12-15T13:55:40</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -2731,7 +2731,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="474747" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
