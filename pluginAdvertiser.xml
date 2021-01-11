@@ -83,6 +83,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.builder">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cfg">
           <value>
             <plugin>
@@ -307,6 +316,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.epp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="org.jetbrains.plugins.ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.erb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.es">
           <value>
             <plugin>
@@ -339,6 +366,24 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gdbcommandsfiletypeextension">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.nativeDebug" />
+              <option name="myPluginName" value="Native Debugging Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gemspec">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -606,6 +651,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jbuilder">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jhm">
           <value>
             <plugin>
@@ -759,11 +813,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.liquid">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.liquid" />
+              <option name="myPluginName" value="Liquid" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.litcoffee">
           <value>
             <plugin>
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lldbcommandsfiletypeextension">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.nativeDebug" />
+              <option name="myPluginName" value="Native Debugging Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1037,6 +1109,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.puppet" />
+              <option name="myPluginName" value="Puppet" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ppm">
           <value>
             <plugin>
@@ -1073,6 +1154,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rake">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rbw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rdoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1100,6 +1217,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rhtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rjs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rnc">
           <value>
             <plugin>
@@ -1123,6 +1258,24 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.rest" />
               <option name="myPluginName" value="ReStructuredText" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ru">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rxml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1181,6 +1334,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.slim">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.slim" />
+              <option name="myPluginName" value="Slim" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.snap">
           <value>
             <plugin>
@@ -1195,6 +1357,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.styl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.stylus" />
+              <option name="myPluginName" value="Stylus" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1222,6 +1393,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.thor">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1620,6 +1800,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".rbenv-gemsets">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".ruby-gemset">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".rvmrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".simplecov">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".stylelintignore">
           <value>
             <plugin>
@@ -1692,11 +1908,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Puppetfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Puppetfile.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="capfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1710,6 +1953,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="cucumber">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1719,11 +1971,47 @@
             </plugin>
           </value>
         </entry>
+        <entry key="gemfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="gemfile.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="guardfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="http-client.cookies">
           <value>
             <plugin>
               <option name="myPluginId" value="com.jetbrains.restClient" />
               <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="isolate">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1751,6 +2039,69 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="rails">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="rake">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="rakefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="rcov">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="readme">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="spec">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="spork">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1800,6 +2151,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="vagrantfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" value="Ruby" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="yarn.lock">
           <value>
             <plugin>
@@ -1820,6 +2180,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="CapistranoRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1830,6 +2195,11 @@
                       <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" />
                     </value>
                   </entry>
+                  <entry key="CommandRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
                   <entry key="ComposerRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" />
@@ -1838,6 +2208,11 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="CucumberRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
@@ -1853,6 +2228,11 @@
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
+                    </value>
+                  </entry>
+                  <entry key="IrbRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -1925,9 +2305,39 @@
                       <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="RSpecRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="RSpec" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="RackRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Rack" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="RailsRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="RakeRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Rake" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="RubyRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ruby remote debug" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="RubyRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ruby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -1935,9 +2345,19 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
+                  <entry key="SporkRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Spork DRb" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TestUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Test::Unit/Shoulda/Minitest" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -1948,6 +2368,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="ZeusRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -1982,7 +2407,22 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="RailsFacetType">
+                    <value>
+                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="gem">
+                    <value>
+                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
