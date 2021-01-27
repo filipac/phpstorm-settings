@@ -27,7 +27,8 @@
     <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
   <action id="EditorCodeBlockStart" />
-  <action id="EditorDuplicate">
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorMoveToPageBottomWithSelection" />
@@ -57,6 +58,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
   </action>
@@ -64,9 +66,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
   <action id="Replace" />
-  <action id="RunDashboard.CopyConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -86,8 +87,6 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="shift meta end" />
   </action>
-  <action id="XDebugger.CopyWatch">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
