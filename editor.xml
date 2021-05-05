@@ -7,7 +7,4 @@
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-  </component>
 </application>
